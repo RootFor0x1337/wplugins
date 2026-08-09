@@ -4,7 +4,7 @@ Un sencillo script para la recoleccion de plugins de WordPress mediante una peti
 ## Syntaxis
 
 ```bash
-wplugins -u <URL> -p <PUERTO>
+./wplugins.sh -u <URL> -p <PUERTO>
 ```
 
 <img width="444" height="117" alt="imagen" src="https://github.com/user-attachments/assets/ade10d83-5ffe-47df-9423-f1ee0103bca2" />
